@@ -1,0 +1,30 @@
+body {
+  background-color: #ffffe0;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+em {
+  color: red;
+  font-style: italic;
+}
+
+strong {
+  color: blue;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 24px;
+}
+
+.non-intro {
+  color: gray;
+}
+
+#last-p {
+  text-decoration: underline;
+}
